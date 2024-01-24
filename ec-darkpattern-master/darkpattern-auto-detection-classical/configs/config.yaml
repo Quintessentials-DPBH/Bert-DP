@@ -1,8 +1,0 @@
-model:
-  name: rfc
-
-experiment:
-  n_trial: 100
-
-random:
-  seed: 42
